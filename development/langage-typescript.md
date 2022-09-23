@@ -6,10 +6,14 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE ✔️
+  Détéction de bug avant même la compilation, code propre, pas de comportement inattendu 
+- les types de bases ✔️
+  string, number, boolean, null, []
+- comment et pourquoi étendre une interface ✔️
+  Réutiliser la base d'une interface pour éviter de modifier toutes les interfaces à chaque modif 
+- les classes et les decorators ✔️
+  Création d'entité typeorm
 
 ## 💻 J'utilise
 
