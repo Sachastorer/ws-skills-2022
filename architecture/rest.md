@@ -6,11 +6,21 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP  ✔️
+ GET, POST, UPDATE, DELETE
+- les statuts HTTP ✔️
+  100, 200, 300, 400, 500
+- les endpoints ✔️
+  URL d'accès à une API
+- CORS ✔️
+  Autorisation de connection entre plusieurs serveurs
+- la nomenclature recommandée pour les routes ✔️
+  POST /wilders
+  GET /wilders
+  GET /wilder/:id
+  PUT /wilders/:id
+  DELETE /wilders/:id
+  
 
 ## 💻 J'utilise
 
@@ -18,9 +28,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
-
-Description :
+Wilder book
 
 ### Utilisation en production si applicable❌ / ✔️
 
