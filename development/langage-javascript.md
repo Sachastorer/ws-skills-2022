@@ -1,18 +1,26 @@
 # Langage Javascript
 
-> ❌ A travailler
-
 > ✔️ Auto validation par l'étudiant
 
 ## 🎓 J'ai compris et je peux expliquer
 
 - les `structures` de base du langage ✔️
-  Tableau, objet, JSON
+
+  Types de données : string, boolean, number
+  Objects : object, array, function
+  
 - les normes `ecmascript` ✔️
-  arrow function, template string, mot clé let, boucle for of, les classes
+  
+  Apportent les nouvelles fonctionnalités et amélioration du langage:
+  let et const, les classes, les promesses, les fonctions fléchés, template literal, modules, destucturing, spread operator ...
+  
 - l'utilisation de l'`asynchrone` ✔️
-  utilisation des promise, then catch, async await
+  
+  Permet d'executer des taches sans bloquer le flux d'execution principal.
+  Pour gérer l'asynchrone on utilise soit les promesses soit async/await.
+  
 - les spécifités du mot-clef `this` ✔️
+  
   Fait référence à une instance de l'objet courant
 
 ## 💻 Je code en Javascript
