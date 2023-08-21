@@ -2,8 +2,6 @@
 
 > ❌ A travailler
 
-> ✔️ Auto validation par l'étudiant
-
 ## 🎓 J'ai compris et je peux expliquer
 
 - les différences et points communs entre du code react et du code react native ✔️
