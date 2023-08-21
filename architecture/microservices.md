@@ -4,7 +4,7 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences avec l'architecture monolithique ✔️   
+- les différences avec l'architecture monolithique ✔️
   L'architecture centralise toutes les fonctionnalités en une seule codebase. Plus simple à développer initialement.
   L'architecture microservices décompose l'application en service indépendants, chacun gérant une une fonctionnalité spécifique, qui communiquent entre eux. Meilleur évolutivité, isolation des erreurs,    fléxibilité dans le déploiement et la mise à jour.
   
