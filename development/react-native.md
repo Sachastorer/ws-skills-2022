@@ -51,7 +51,7 @@
   
 - comment est géré le layout en react native ✔️
 
-  La layout en React native est géré grâce à FlexBox et les différentes propriétés FlexDirection, JustifyContent, AlignItems
+ La layout en React native est géré grâce à FlexBox et les différentes propriétés FlexDirection, JustifyContent, AlignItems
 
 ## 💻 J'utilise
 
