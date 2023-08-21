@@ -26,7 +26,6 @@
 
   Chaque composant à un cycle de vie allant de sa création à sa déstructuration. Les hook permettent d'éxecuter une série d'instructions à chacun de ces cycle de vie, ainsi qu'à chaque changement d'un 
   état ou de ses props. Utilisation de useEffect et de son tableau de dépendance.
-
   
 - l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
 
